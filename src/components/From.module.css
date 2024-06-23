@@ -1,0 +1,52 @@
+.formContainer {
+  width: 500px;
+  height: 500px;
+  background-color: white;
+  border-radius: 50px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.title {
+  font-size: 20px;
+  color: black;
+}
+
+.nameLabel,
+.phoneLabel,
+.emailLabel,
+.genderLabel {
+  color: black;
+  font-size: 16px;
+}
+
+.nameInput,
+.phoneInput,
+.emailInput,
+.genderSelect,
+.submitInput {
+  width: 200px;
+  height: 25px;
+  background-color: white;
+  color: rgb(58, 58, 58);
+  border: solid 1px black;
+  border-radius: 5px;
+  padding: 2px;
+}
+
+.submitInput {
+  background-color: #489aaa;
+  color: white;
+  border: none;
+}
+
+.errorMessage {
+  color: red;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
