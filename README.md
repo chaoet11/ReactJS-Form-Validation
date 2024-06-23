@@ -18,9 +18,9 @@ A simple Form Validation with React.
 
 ## 💻 Demo Screenshot
 
-![](imgs//screenshot 1.png)
+![](imgs//screenshot_1.png)
 
-![](imgs//screenshot 2.png)
+![](imgs//screenshot_2.png)
 
 ## 🚀 Getting Started
 
